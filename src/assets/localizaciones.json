@@ -1,0 +1,20 @@
+{
+  "lugares": [
+    {
+      "nombre": "Plaza España",
+      "coordenadas": [41.6521505126928, -0.8808339409004897]
+    },
+    {
+      "nombre": "Cine Palafox",
+      "coordenadas": [41.65099414913887, -0.8825412297240204]
+    },
+    {
+      "nombre": "Puerta del Carmen",
+      "coordenadas": [41.64995709744753, -0.887539237770559]
+    },
+    {
+      "nombre": "Plaza del Pilar",
+      "coordenadas": [41.65656625500789, -0.8789756796367437]
+    }
+  ]
+}
